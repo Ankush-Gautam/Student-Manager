@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\StudentManager.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Ag\\Documents\\RiderProjects\\StudentManager\\StudentManager\\wwwroot\\assets\\AddStudent_ss.png",
+      "PackagePath": "staticwebassets\\assets\\AddStudent_ss.png"
+    },
+    {
+      "Id": "C:\\Users\\Ag\\Documents\\RiderProjects\\StudentManager\\StudentManager\\wwwroot\\assets\\Homepage_ss.png",
+      "PackagePath": "staticwebassets\\assets\\Homepage_ss.png"
+    },
+    {
+      "Id": "C:\\Users\\Ag\\Documents\\RiderProjects\\StudentManager\\StudentManager\\wwwroot\\assets\\ListStudents_ss.png",
+      "PackagePath": "staticwebassets\\assets\\ListStudents_ss.png"
+    },
+    {
       "Id": "C:\\Users\\Ag\\Documents\\RiderProjects\\StudentManager\\StudentManager\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
